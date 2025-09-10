@@ -1,3 +1,11 @@
+A Decentralized Autonomous Organization (DAO) built with Solidity and ERC-20 tokens.
+
+Members can vote on proposals.
+
+Governance rules coded into smart contracts.
+
+Focused on decentralized decision-making.
+
 
 # Proposta de DAO para Assistente de Estilo com IA
 
